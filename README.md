@@ -6,6 +6,8 @@ This project is an **interactive dashboard for sentiment analysis of text commen
 
 ## 📂 Dataset
 
+![📊 Sample data](images/sample_data.jpeg)
+
 - Source: Wikipedia comments dataset (`train/train.csv`).
 - Labels (multi-label, binary for each class):
   - `toxic`
@@ -18,6 +20,12 @@ This project is an **interactive dashboard for sentiment analysis of text commen
 **Binary Sentiment:**
 0 → Positive (no toxic labels)
 1 → Negative (any toxic label present)
+
+---
+
+### 📊 Dashboard Metrics
+
+![Dashboard & Filter](intro/metrics.jpeg)
 
 ---
 
@@ -37,6 +45,16 @@ This project is an **interactive dashboard for sentiment analysis of text commen
 - Top 20 most frequent words
 - Sample comments table
 - Real-time prediction for new comments
+
+---
+
+### 📈 Sentiment Distribution
+
+![Pie & Bar Chart](images/pie_bar_chart.jpeg)
+
+### 🔤 Most Frequent Words
+
+![Top Words](images/most_word.jpeg)
 
 ---
 
@@ -119,6 +137,14 @@ Steps applied to raw comments:
 - Click **Predict** → Shows:
 - Sentiment label (Positive/Negative)
 - Confidence score
+
+### 🧪 Predict New Comment
+
+![Positive Comment Test](images/positive_comment.jpeg)
+
+---
+
+![Negative Comment Test](images/negative_comment.jpeg)
 
 ---
 
