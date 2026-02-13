@@ -25,7 +25,7 @@ This project is an **interactive dashboard for sentiment analysis of text commen
 
 ### 📊 Dashboard Metrics
 
-![Dashboard & Filter](intro/metrics.jpeg)
+![Dashboard & Filter](images/intro.jpeg)
 
 ---
 
